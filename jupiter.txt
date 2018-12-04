@@ -2,4 +2,10 @@ first line of the jupiter file
 second line of the jupiter file
 
 
+These are some extra lines for Linda
+Jupiter is a pretty big planet
+
 bla bla b
+
+These are some extra lines for Linda
+Jupiter is a pretty big planet
